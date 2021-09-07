@@ -8,7 +8,7 @@
 * Phone number: +38 097 2037240
 * Discord: Oxygenium#5604
 * E-mail: feikomilcezzz@gmail.com
-* <a href="https://github.com/AlexPGith">AlexPGith</a>
+* Github: <a href="https://github.com/AlexPGith">AlexPGith</a>
 <hr>
 
 <h2>Skills</h2>
