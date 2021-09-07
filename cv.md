@@ -1,24 +1,24 @@
-**Alexander Pakhomov**
+<h1>Alexander Pakhomov</h1>
 
 <hr>
 
-**Contact Info**
+<h2>Contact Info</h2>
+
 * Location: Ukraine, Odessa
 * Phone number: +38 097 2037240
 * Discord: Oxygenium#5604
 * E-mail: feikomilcezzz@gmail.com
-* Github: https://github.com/AlexPGith
-
+* <a href="https://github.com/AlexPGith">AlexPGith</a>
 <hr>
 
-**Skills**
+<h2>Skills</h2>
 
 * HTML/CSS
 * System Engineering
 
 <hr>
 
-**Code Examples**
+<h2>Code Examples</h2>
 
 ```
 function numb(x){
@@ -27,14 +27,14 @@ function numb(x){
 ```
 <hr>
 
-**Education**
+<h2>Education</h2>
 
 * ITStep Academy
     * System Engineering
 
 <hr>
 
-**Languages**
+<h2>Languages</h2>
 
 * English - A1
 * Russian - native speaker
