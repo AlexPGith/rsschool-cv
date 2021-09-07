@@ -14,15 +14,12 @@
 * **Discord:** Oxygenium#5604
 * **E-mail:** feikomilcezzz@gmail.com
 * **Github:** <a href="https://github.com/AlexPGith">AlexPGith</a>
-<hr>
 
 <h2>Skills</h2>
 
 * HTML/CSS
 * Installing and configuring Windows server 2012+
 * Routing and switching
-
-<hr>
 
 <h2>Code Examples</h2>
 
