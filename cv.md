@@ -15,6 +15,7 @@
 
 * HTML/CSS
 * Installing and configuring Windows server 2012+
+* Routing and switching
 
 <hr>
 
