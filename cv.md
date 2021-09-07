@@ -14,7 +14,7 @@
 <h2>Skills</h2>
 
 * HTML/CSS
-* System Engineering
+* Installing and configuring Windows server 2012+
 
 <hr>
 
