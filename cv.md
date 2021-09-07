@@ -21,8 +21,8 @@
 <h2>Code Examples</h2>
 
 ```
-function numb(x){
-    return x * x
+function multiply(a, b){
+  return a * b
 }
 ```
 <hr>
