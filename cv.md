@@ -1,6 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>cv</title>
+  <meta charset="utf-8">
+</head>
+<body>
 <h1>Alexander Pakhomov</h1>
-
-<hr>
 
 <h2>Contact Info</h2>
 
@@ -40,3 +45,5 @@ function multiply(a, b){
 * **English** - A1
 * **Russian** - native speaker
 * Sometimes hard to communicate because of sluttering
+</body>
+</html>
