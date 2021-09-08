@@ -21,14 +21,11 @@ function multiply(a, b){
   return a * b
 }
 ```
-<hr>
 
 <h2>Education</h2>
 
 * **ITStep Academy**
     * System Engineering
-
-<hr>
 
 <h2>Languages</h2>
 
