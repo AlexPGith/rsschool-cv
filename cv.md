@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title><a href="https://github.com/AlexPGith"></title>
-  <meta charset="utf-8">
-</head>
-<body>
 <h1>Alexander Pakhomov</h1>
 
 <h2>Contact Info</h2>
@@ -42,5 +35,3 @@ function multiply(a, b){
 * **English** - A1
 * **Russian** - native speaker
 * Sometimes hard to communicate because of sluttering
-</body>
-</html>
