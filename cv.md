@@ -12,7 +12,7 @@
 
 * HTML/CSS
 * Installing and configuring Windows server 2012+
-* Routing and switching.
+* Routing and switching
 
 <h2>Code Examples</h2>
 
